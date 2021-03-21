@@ -2,3 +2,5 @@
 
 This repo contains the hardware and software files used to accompany the paper "Hardware Development and Performance Analysis of Ultra-Wideband Positioning Systems" by Harry Petter.
 
+Hardware folder contains bill of materials, DesignSpark PCB files for editing the PCB layouts and export files in LPKF format.
+
