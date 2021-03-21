@@ -4,8 +4,7 @@ This repo contains the hardware and software files used to accompany the paper "
 
 The design files contain PCB layouts designed for the Decawave DW1000 UWB transceiver and may be adapted to suit your hardware needs. The intention of this project is to enable users to develop their own PCB designs rapidly at a lower cost than investing in commercial modules. The performance of the designs in this repo are intentionally variable; for the best performance (positioning accuracy of 7cm, total range of 100m) please refer to "Version 2 FR4". You may wish to edit dimensions or large parts of these layouts, but they exist to provide a starting point for custom PCBs with the DW1000 IC.
 
-_These boards were tested with Thotro's Arduino-DW1000 repo 
-_All software sketches in this repo are adapted versions of his orignal work (to use the sketches in this repo you need Thotro's source files)
+***These boards were tested with Thotro's Arduino-DW1000 repo. All software sketches in this repo are adapted versions of his orignal work (to use the sketches in this repo you need Thotro's source files)***
 
 Please note 0603 SMD packages are used, apart from the balun capacitors which are 0402 SMD packages.
 
