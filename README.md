@@ -1,6 +1,6 @@
 # Custom-DW1000-PCB-for-hardware-evaluation
 
-This repo contains the hardware and software files used to accompany the paper "Hardware Development and Performance Analysis of Ultra-Wideband Positioning Systems" by Harry Petter, see https://drive.google.com/file/d/1XKwOa9XYvF2y-BIo_fEk8SgJ67fw8Stb/view?usp=drivesdk
+This repo contains the hardware and software files used to accompany the paper "Hardware Development and Performance Analysis of Ultra-Wideband Positioning Systems" by Harry Petter
 
 The design files contain PCB layouts designed for the Decawave DW1000 UWB transceiver and may be adapted to suit your hardware needs. The intention of this project is to enable users to develop their own PCB designs rapidly at a lower cost than investing in commercial modules. The performance of the designs in this repo are intentionally variable; for the best performance (positioning accuracy of 7cm, total range of 100m) please refer to "Version 2 FR4". You may wish to edit dimensions or large parts of these layouts, but they exist to provide a starting point for custom PCBs with the DW1000 IC. Please note 0603 SMD packages are used, apart from the balun capacitors which are 0402 SMD packages.
 
