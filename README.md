@@ -12,6 +12,8 @@ The design files contain PCB layouts designed for the Decawave DW1000 UWB transc
 The contents of this repo are as follows:
 # Hardware: 
   -Bill of materials for all boards
+  
+  -Schematic (Common for all boards)
 
   -Version 1 PCB (layout and LPKF export files)
     ~Prototype board, Arduino Uno pin mapping, unmatched antenna traces, sub-optimal component placement
